@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-Front-End Engineer
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhwansuh)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhwansuh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhwansuh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![jin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinhwansuh)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **jinhwansuh/jinhwansuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
