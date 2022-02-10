@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-#### Front-End Developer (Junior)
+### Front-End Developer (Junior)
 
 🏠 Seoul  🔗 [Introduce](https://laced-terrier-092.notion.site/Suh-JinHwan-78b3dee32bd84ef280dc8c08d1da160a)
 ### 🛠️ Skills
