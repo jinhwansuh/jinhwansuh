@@ -3,7 +3,7 @@
 
 🏠 Seoul
 
-[homepage](https://bit.ly/435lCAg) &nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/jinhwansuh/) 
+[homepage](https://bit.ly/435lCAg) &nbsp; [linkedin](https://www.linkedin.com/in/jinhwansuh/) 
 
 <br />
 
