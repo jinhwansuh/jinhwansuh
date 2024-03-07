@@ -1,8 +1,18 @@
 
-### Front-end Developer
+### Web Developer
 
 🏠 Seoul
-### 🛠️ Skills
 
- ![JS](https://img.shields.io/badge/JavaScript-FBE851?style=flat-square&logo=JavaScript&logoColor=333) ![TS](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white) ![html](https://img.shields.io/badge/Html-E7603B?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-2D88CB?style=flat-square&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/React-5DCCEB?style=flat-square&logo=React&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-43BB97?style=flat-square&logo=Vue.js&logoColor=white)
+[homepage](https://bit.ly/435lCAg) &nbsp;&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/jinhwansuh/) 
+
+<br />
+
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Threejs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+ ![ReactQuery](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+ ![Zustand](https://img.shields.io/badge/Zustand-EA8220?style=for-the-badge&logoColor=white)
+ ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![Nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+ 
 
